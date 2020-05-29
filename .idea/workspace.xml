@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d20c3ec3-1083-44c5-a701-369931a6eed1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1cADKEGJINNwxdHSbBqxwDROgYq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\EBI\Documents\Qlik\Sense\Extensions\ebi-echarts-pie\js" />
+      <recent name="C:\Users\EBI\Documents\Qlik\Sense\Extensions\ebi-echarts-pie\lib" />
+      <recent name="C:\Users\EBI\Documents\Qlik\Sense\Extensions\SmartWharfPie\js" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d20c3ec3-1083-44c5-a701-369931a6eed1" name="Default Changelist" comment="" />
+      <created>1589962437138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589962437138</updated>
+      <workItem from="1589962438428" duration="76000" />
+      <workItem from="1589962550224" duration="38000" />
+      <workItem from="1589962610666" duration="22324000" />
+      <workItem from="1590061206108" duration="8963000" />
+      <workItem from="1590070408356" duration="461000" />
+      <workItem from="1590234437301" duration="25197000" />
+      <workItem from="1590329398886" duration="688000" />
+      <workItem from="1590647285737" duration="17856000" />
+      <workItem from="1590743605256" duration="6192000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590067963212">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1590067963212" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1590745147382">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1590745147382" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1589963707097">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589963707097" />
+    <state x="613" y="128" width="647" height="534" key="find.popup" timestamp="1590744438988">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="613" y="128" width="647" height="534" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1590744438988" />
+  </component>
+</project>
